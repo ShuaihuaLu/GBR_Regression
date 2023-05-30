@@ -7,3 +7,7 @@ The theory behind GBR_Regression is described in our preprint (1), (2) and (3). 
 3. https://www.sciencedirect.com/science/article/pii/S2451929421005805
 # Authors
 GBR_Regression is being developed by Shuaihua Lu under the guidance of Jinlan Wang at Southeast University.
+# Contact, questions, and contributing
+If you have questions, please don't hesitate to reach out at shlu@seu.edu.cn.
+
+If you find a bug or have a proposal for a feature, please post it in the Issues. If you have a question, topic, or issue that isn't obviously one of those, try our GitHub Discussions.
